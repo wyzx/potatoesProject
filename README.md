@@ -1,2 +1,2 @@
 # potatoesProject
-my project used to test git repo
+my project used to test git repository
